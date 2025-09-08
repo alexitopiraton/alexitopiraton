@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Alex Ureña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-* I am an UPC Student (**FIB**) from Barcelona, Spain. Currently i'm in 4th grade in Informatics Engineering.
+* I am an UPC Student (**FIB**) from Barcelona, Spain. Currently i'm in 4th grade in Computer Engineering.
 
 * Looking for an **intership opportunity** to complete my **TFG** during the next semester (**February to June**) 👀
 
